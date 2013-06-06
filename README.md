@@ -6,7 +6,7 @@ A few utilities function for people sadly still on Coldfusion 8
 
 Include all:
 ```coldfusion
-<cfinclude template="cf8Shive.cfm"/>
+<cfinclude template="cf8Shiv.cfm"/>
 ```
 Just a piece:
 ```coldfusion
